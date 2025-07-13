@@ -8,9 +8,9 @@
   <a href="mailto:promiseibehdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-promiseibehdev@gmail.com-red" />
   </a>
-  <a href="https://www.6thtouchrobotics.com.ng">
+<!--   <a href="https://www.6thtouchrobotics.com.ng">
     <img src="https://img.shields.io/badge/Website-6thTouchRobotics.com.ng-blue" />
-  </a>
+  </a> -->
 </p>
 
 ---
