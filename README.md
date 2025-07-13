@@ -37,7 +37,6 @@
   "DevOps": ["Render", "Vercel", "GitHub Actions"]
 }
 ```
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibeh-promise&label=Profile%20views&color=0e75b6&style=flat" alt="ibeh-promise" /> </p>
 
