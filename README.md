@@ -36,7 +36,7 @@
   "Game Dev": ["Unity", "C#", "Blender"],
   "DevOps": ["Render", "Vercel", "GitHub Actions"]
 }
-
+```
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibeh-promise&label=Profile%20views&color=0e75b6&style=flat" alt="ibeh-promise" /> </p>
@@ -54,4 +54,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibeh-promise&show_icons=true&locale=en" alt="ibeh-promise" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibeh-promise&" alt="ibeh-promise" /></p>
-
