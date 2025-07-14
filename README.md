@@ -20,7 +20,7 @@
 - 🎓 I'm a passionate **Fullstack Developer** and **Game Developer**
 - 🎮 I build games using **Unity & C#**
 - ⚙️ I work with **Node.js, Express, PostgreSQL, React Native**, and **Tailwind CSS**
-- 🧠 I love teaching tech — I'm the creator of **6thTouch**, a platform for coding and robotics education
+- 🧠 I love teaching tech
 - 🚀 I’m always learning, building, and growing
 
 ---
