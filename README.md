@@ -5,8 +5,8 @@
   <a href="https://github.com/promiseibeh">
     <img src="https://komarev.com/ghpvc/?username=promiseibeh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <a href="mailto:promiseibehdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-promiseibehdev@gmail.com-red" />
+  <a href="mailto:ibehpromise3d@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ibehpromise3d@gmail.com-red" />
   </a>
 <!--   <a href="https://www.6thtouchrobotics.com.ng">
     <img src="https://img.shields.io/badge/Website-6thTouchRobotics.com.ng-blue" />
