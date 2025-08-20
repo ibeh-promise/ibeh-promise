@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Promise Ibeh</h1>
-<h3 align="center">Fullstack Developer | Game Developer | Robotics Educator</h3>
+<h3 align="center">Fullstack Developer | Mobile App Developer | Robotics Educator</h3>
 
 <p align="center">
   <a href="https://github.com/promiseibeh">
@@ -18,7 +18,7 @@
 ### 💡 About Me
 
 - 🎓 I'm a passionate **Fullstack Developer** and **Game Developer**
-- 🎮 I build games using **Unity & C#**
+- 🎮 I build Apps using **React Native**
 - ⚙️ I work with **Node.js, Express, PostgreSQL, React Native**, and **Tailwind CSS**
 - 🧠 I love teaching tech
 - 🚀 I’m always learning, building, and growing
@@ -33,7 +33,6 @@
   "Frontend": ["React", "React Native", "Tailwind CSS"],
   "Backend": ["Node.js", "Express"],
   "Database": ["PostgreSQL", "MongoDB"],
-  "Game Dev": ["Unity", "C#", "Blender"],
   "DevOps": ["Render", "Vercel", "GitHub Actions"]
 }
 ```
